@@ -1,6 +1,12 @@
-# README - Common DevX
+# ⚠️ [Archived] ⚠️ README - Columbus Street Card
 
-> **Last Updated**: 2025-10-29 by Keming He
+> [!WARNING]
+>
+> This repository is archived and no longer maintained. **No progress has been made beyond initial commit via the [KemingHe/common-devx](https://github.com/KemingHe/common-devx) template (legacy version).**
+>
+> - **Archived**: 2026-03-29 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive Reason**: Author now focusing on different career priorities
+> - **Inquries and Corrections**: Email keminghe[dot]career[at]gmail[dot]com
 
 ## Overview
 
